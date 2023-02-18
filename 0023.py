@@ -1,0 +1,3 @@
+#0023
+N=int(input())
+print(N%10)
