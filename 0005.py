@@ -1,3 +1,9 @@
+"""
+robocontest.uz #Ko'paytma
+
+instagram.com/sarvarrjaan   #follow_me
+"""
+
 import math
 n = int(input())
 k = 0
