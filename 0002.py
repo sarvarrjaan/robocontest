@@ -1,5 +1,5 @@
 """
-robocontest.com #katta-kichik, #taqqoslash
+robocontest.uz #katta-kichik, #taqqoslash
 
 instagram.com/sarvarrjaan
 """
