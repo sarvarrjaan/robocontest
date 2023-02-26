@@ -1,3 +1,9 @@
+"""
+robocontest.uz #virus_n3
+
+instagram.com/sarvarrjaan   #follow_me
+"""
+
 #0015
 n,k = map(int, input().split())
 M = int(1e9+7)
