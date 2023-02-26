@@ -1,3 +1,9 @@
+"""
+robocontest.uz #natural_son  - son - so'z
+
+instagram.com/sarvarrjaan   #follow_me
+"""
+
 bir = {
        '1' : 'bir ',
        '2' : 'ikki ',
