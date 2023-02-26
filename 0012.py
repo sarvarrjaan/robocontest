@@ -1,3 +1,9 @@
+"""
+robocontest.uz #O'yin - bobur_and_ali
+
+instagram.com/sarvarrjaan   #follow_me
+"""
+
 #0012
 n = int(input())
 k = 0
