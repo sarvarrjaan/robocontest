@@ -1,3 +1,8 @@
+"""
+robocontest.uz #Smith_soni
+instagram.com/sarvarrjaan   #follow_me
+"""
+
 def isPrime(num):
     for i in range(2,num):  
        if (num % i) == 0:  
