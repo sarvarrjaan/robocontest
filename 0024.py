@@ -1,3 +1,8 @@
+"""
+robocontest.uz #Vaqtlar_oraligi
+instagram.com/sarvarrjaan   #follow_me
+"""
+
 #0024
 h1, m1, s1 = map(int, input().split())
 h2, m2, s2 = map(int, input().split())
