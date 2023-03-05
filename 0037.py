@@ -1,3 +1,8 @@
+"""
+robocontest.uz #Variantlar
+instagram.com/sarvarrjaan   #follow_me
+"""
+
 n = int(input())
 s = 1
 for i in range(n):
