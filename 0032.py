@@ -1,3 +1,8 @@
+"""
+robocontest.uz #Kanfetlar
+instagram.com/sarvarrjaan   #follow_me
+"""
+
 import math
 t=int(input())
 for i in range(t):
