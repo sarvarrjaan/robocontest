@@ -1,3 +1,8 @@
+"""
+robocontest.uz #Kozalar
+instagram.com/sarvarrjaan   #follow_me
+"""
+
 import math
 t = int(input())
 res = []
