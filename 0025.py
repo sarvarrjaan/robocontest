@@ -1,3 +1,9 @@
+"""
+robocontest.uz #Elektron_soat
+instagram.com/sarvarrjaan   #follow_me
+"""
+
+
 n=input()
 
 soat=int(n)//3600
