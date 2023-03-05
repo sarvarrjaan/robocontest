@@ -1,3 +1,8 @@
+"""
+robocontest.uz #Nuqta
+instagram.com/sarvarrjaan   #follow_me
+"""
+
 n = int(input())
 d = [0]*n
 for i in range(n):
